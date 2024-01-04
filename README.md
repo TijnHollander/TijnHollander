@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a IOS/Android application for sports.<br>👯 I’m looking to collaborate on new big projects.<br>🌱 I’m currently learning about PHP libraries, and C++. And more!<br>💬 Questions? Please feel free to message me!
+🔭 Student at Grafisch Lyceum Rotterdam.<br>
 
 
 ## 🌐 Socials:
